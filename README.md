@@ -1,3 +1,8 @@
+---
+label: Retype Test
+order: 0
+---
+
 # Retype Test
 
 Testing out [Retype](https://retype.com).
